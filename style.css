@@ -198,6 +198,7 @@ nav {
   height: 100vh;
   background-color: whitesmoke;
   position: relative;
+  overflow: hidden;
 }
 
 .productImg {
